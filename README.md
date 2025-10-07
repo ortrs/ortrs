@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ortrs, Orlando for the friends.
 - 👀 I’m interested in Python, HTML/CSS for website creation, LaTeX for academic/personal writing.
-- 🌱 I’m currently learning Physics-related programming
-- 💞️ I’m looking to collaborate on automation
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on LabView projects and physics-related simulations
 - 📫 How to reach me: Preferably over here.
 
 <!---
